@@ -21,7 +21,7 @@ Skills:(Functional Testing, Regression Testing, Manual Testing, Test Case Design
 
 ## Projects
 ### Network Traffic Analyzer using Wireshark
-([https://github.com/Dasalvi36/Network-Traffic-Analyzer-using-Wireshark-](https://dasalvi36.github.io/Wireshark/))
+([Network Traffic Analyzer using Wireshark](https://dasalvi36.github.io/Wireshark/))
 
 
 
