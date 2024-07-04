@@ -1,4 +1,5 @@
-# Cybersecurity Graduate
+# Dhanashree Salvi
+## Cybersecurity Graduate
 
 ## About Me
 -
@@ -10,7 +11,8 @@
 ## Work Experience
 **Capgemini (_May 2021 - Jan 2024_)**
 **Software Test Engineer**
-- Skills:(Functional Testing, Regression Testing, Manual Testing, Test Case Design, Defect Logging, Rally, HP-ALM, Java, Selenium) 
+
+Skills: (Functional Testing, Regression Testing, Manual Testing, Test Case Design, Defect Logging, Rally, HP-ALM, Java, Selenium) 
 - Contributed to the design of test scenarios and test cases, creating a comprehensive collection of over 700+ test cases.
 - Executed test cases and logged defects on Rally and ALM platforms, with a total of 85+ defects raised.
 - Involved in various testing types, such as Functional, Regression, Sanity, and UI testing by using Agile methodology.
@@ -18,10 +20,9 @@
 - Monitoring the resolution of defects and verifying the effectiveness of fixes.
 
 
-
 ## Projects
 - [Network Traffic Analyzer using Wireshark](https://dasalvi36.github.io/Wireshark/)
-- [Security Monitoring and Logging using SIEM]([https://dasalvi36.github.io/Wireshark/](https://dasalvi36.github.io/SIEM-Security-Information-and-Event-Management/))
+- [Security Monitoring and Logging using SIEM](https://dasalvi36.github.io/SIEM-Security-Information-and-Event-Management/)
   
 
 
