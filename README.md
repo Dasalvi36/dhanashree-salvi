@@ -21,6 +21,7 @@ Skills:(Functional Testing, Regression Testing, Manual Testing, Test Case Design
 
 ## Projects
 - [Network Traffic Analyzer using Wireshark](https://dasalvi36.github.io/Wireshark/)
-
+- [Security Monitoring and Logging using SIEM]([https://dasalvi36.github.io/Wireshark/](https://dasalvi36.github.io/SIEM-Security-Information-and-Event-Management/))
+  
 
 
