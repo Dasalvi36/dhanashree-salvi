@@ -1,4 +1,4 @@
-      Dhanashree Salvi
+
 ## Cybersecurity Graduate
 
 ## About Me
@@ -10,6 +10,7 @@
 
 ## Work Experience
 **Capgemini (_May 2021 - Jan 2024_)**
+
 **Software Test Engineer**
 
 Skills: (Functional Testing, Regression Testing, Manual Testing, Test Case Design, Defect Logging, Rally, HP-ALM, Java, Selenium) 
