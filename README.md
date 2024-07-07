@@ -6,7 +6,7 @@
 
 ## Education
 - M.S., Cybersecurity | Rowan University New Jersey, United States (_Jan 2024 - May 2025_)								       		       		
-- B.E., Information Technology Saraswati College of Engineering Mumbai, India (_Aug 2016 - Oct 2020_)
+- B.E., Information Technology | Saraswati College of Engineering Mumbai, India (_Aug 2016 - Oct 2020_)
 
 ## Work Experience
 **Capgemini (_May 2021 - Jan 2024_)**
