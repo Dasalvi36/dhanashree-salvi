@@ -5,8 +5,8 @@
 - I am a Cybersecurity Graduate Student at Rowan University, specializing in Cybersecurity Risk/Management/Policy, Cyber Defense Operating System & Networks, Cyber Operations.  With 30 months of experience as a Software Tester, I have gained skills in identifying vulnerabilities and ensuring software security.
 
 ## Education
-- M.S., Cybersecurity | Rowan University | New Jersey, United States (_Jan 2024 - May 2025_)								       		       		
-- B.E., Information Technology | Saraswati College of Engineering | Mumbai, India (_Aug 2016 - Oct 2020_)
+- M.S., Cybersecurity | Rowan University New Jersey, United States (_Jan 2024 - May 2025_)								       		       		
+- B.E., Information Technology | Saraswati College of Engineering Mumbai, India (_Aug 2016 - Oct 2020_)
 
 ## Work Experience
 **Capgemini (_May 2021 - Jan 2024_)**
