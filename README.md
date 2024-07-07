@@ -2,7 +2,7 @@
 ## Cybersecurity Graduate
 
 ## About Me
-- I am a Cybersecurity Graduate Student at Rowan University, specializing in Cybersecurity Risk/Management/Policy, Cyber Defense Operating System & Networks, Cyber Operations.  With 30 months of experience as a Software Tester, I have gained skills in identifying vulnerabilities and ensuring software security.
+I am a Cybersecurity Graduate Student at Rowan University, specializing in Cybersecurity Risk/Management/Policy, Cyber Defense Operating System & Networks, Cyber Operations.  With 30 months of experience as a Software Tester, I have gained skills in identifying vulnerabilities and ensuring software security.
 
 ## Education
 - M.S., Cybersecurity | Rowan University New Jersey, United States (_Jan 2024 - May 2025_)								       		       		
