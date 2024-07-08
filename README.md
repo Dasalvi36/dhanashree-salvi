@@ -6,13 +6,12 @@ I am a Cybersecurity Graduate Student at Rowan University, specializing in Cyber
 
 ## Education
 ### M.S., Cybersecurity
-**Rowan University**, New Jersey, United States
+**Rowan University**, New Jersey, United States 
 Jan 2024 - May 2025
 
 ### B.E., Information Technology
 **Saraswati College of Engineering**, Mumbai, India  
 Aug 2016 - Oct 2020
-
 
 ## Work Experience
 **Capgemini (_May 2021 - Jan 2024_)**
