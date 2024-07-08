@@ -6,7 +6,7 @@ I am a Cybersecurity Graduate Student at Rowan University, specializing in Cyber
 
 ## Education
 ### M.S., Cybersecurity
-**Rowan University**, New Jersey, United States 
+**Rowan University**, New Jersey, United States  
 Jan 2024 - May 2025
 
 ### B.E., Information Technology
