@@ -14,7 +14,7 @@ Jan 2024 - May 2025
 Aug 2016 - Oct 2020
 
 ## Work Experience
-**Capgemini (_May 2021 - Jan 2024_)**
+**Capgemini (May 2021 - Jan 2024)**
 
 **Software Test Engineer**
 
