@@ -1,5 +1,5 @@
 
-## Cybersecurity Graduate
+## Cybersecurity Graduate [(Download CV)](assets/SalviDhanashree_Resume.pdf)
 
 ## About Me
 I am a Cybersecurity Graduate Student at Rowan University, specializing in Cybersecurity Risk/Management/Policy, Cyber Defense Operating System & Networks, Cyber Operations.  With 30 months of experience as a Software Tester, I have gained skills in identifying vulnerabilities and ensuring software security.
@@ -31,7 +31,7 @@ Skills: (Functional Testing, Regression Testing, Manual Testing, Test Case Desig
 - [Security Monitoring and Logging using SIEM](https://dasalvi36.github.io/SIEM-Security-Information-and-Event-Management/)
 - [Business Continuity Plan](https://github.com/Dasalvi36/Business-Continuity-Plan)
 
-## Download CV(assets/SalviDhanashree_Resume.pdf)
+
 
   
 
