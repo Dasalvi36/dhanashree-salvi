@@ -31,8 +31,8 @@ Skills: (Functional Testing, Regression Testing, Manual Testing, Test Case Desig
 - [Security Monitoring and Logging using SIEM](https://dasalvi36.github.io/SIEM-Security-Information-and-Event-Management/)
 - [Business Continuity Plan](https://github.com/Dasalvi36/Business-Continuity-Plan)
 
-## Download CV
-- [CV](SalviDhanashree_Resume.pdf)
+## Download CV()
+
   
 
 
