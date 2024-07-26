@@ -30,6 +30,9 @@ Skills: (Functional Testing, Regression Testing, Manual Testing, Test Case Desig
 - [Network Traffic Analyzer using Wireshark](https://dasalvi36.github.io/Wireshark/)
 - [Security Monitoring and Logging using SIEM](https://dasalvi36.github.io/SIEM-Security-Information-and-Event-Management/)
 - [Business Continuity Plan](https://github.com/Dasalvi36/Business-Continuity-Plan)
+
+## Download CV
+- [CV](SalviDhanashree_Resume.pdf)
   
 
 
