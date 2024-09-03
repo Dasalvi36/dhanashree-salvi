@@ -1,5 +1,5 @@
 
-## Cybersecurity Graduate [(View CV)](assets/CV_Dhanashree_Salvi.pdf)
+## Cybersecurity Graduate [(View CV)](assets/CV_Salvi_Dhanashree.pdf)
 
 ## About Me
 I am a Cybersecurity Graduate Student at Rowan University, specializing in Cybersecurity Risk/Management/Policy, Cyber Defense Operating System & Networks, Cyber Operations.  With 30 months of experience as a Software Tester, I have gained skills in identifying vulnerabilities and ensuring software security.
