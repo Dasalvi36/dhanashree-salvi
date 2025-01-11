@@ -16,8 +16,7 @@ Aug 2016 - Oct 2020
 ## Techincal Skills
 - Languages: C, Java, Python, R, SQL
 - Tools: Wireshark, Nmap, Kali Linux, Ubuntu, Splunk, Windows Defender, Microsoft Active Directory, Selenium, Cucumber, Burp Suite, Docker, Oracle VM
-- Technologies: Web Application Testing, Threat & Vulnerability Management, Object Oriented Programming, Incident Response, Risk Assessment, Compliance, Exploitation Techniques, 
-  Penetration Testing, Threat Modelling.
+- Technologies: Web Application Testing, Application Security, Threat & Vulnerability Assessment, Object Oriented Programming, Incident Response, Malware Analysis, Risk Assessment, Penetration Testing, Threat Modelling
 
 ## Work Experience
 **Capgemini (May 2021 - Jan 2024)**
