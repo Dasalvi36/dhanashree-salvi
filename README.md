@@ -5,7 +5,7 @@
 I am a Cybersecurity Graduate Student at Rowan University, specializing in Cybersecurity Risk/Management/Policy, Cyber Defense Operating System & Networks, Cyber Operations and Cryptography. With 31 months of experience as a Software Tester, I have developed skills in identifying bugs and issues during testing by maintaining a keen eye for detail. Passionate about protecting digital landscapes, I am eager to connect with Cybersecurity professionals to explore new opportunities.
 
 ## Education
-### M.S., Cybersecurity (3.8 GPA)
+### M.S., Cybersecurity (3.82 GPA)
 **Rowan University**, New Jersey, United States  
 Jan 2024 - May 2025
 
@@ -38,5 +38,5 @@ Aug 2016 - Oct 2020
 
 ## Achievements:
 - National Service Scheme Certificate (Issued by Government of India (Ministry of Youth Affairs and Sports))
-- [NCL Scouting Report: National Cyber League (NCL) Fall 2024 - 2213th place out of 8484 nationally](https://github.com/Dasalvi36/National-Cyber-League-Report)
+- [NCL Scouting Report: National Cyber League (NCL) Fall 2024 - 2213th place out of 8484 nationally](https://github.com/Dasalvi36/National-Cyber-League-Report/blob/main/Dhanashree%20Salvi%20-%20Cyber%20Skyline%20Report.pdf)
 
