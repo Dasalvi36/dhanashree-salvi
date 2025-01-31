@@ -1,4 +1,3 @@
-
 ## Cybersecurity Graduate
 
 ## About Me
