@@ -22,6 +22,7 @@ Aug 2016 - Oct 2020
 ## Work Experience
 
 **Capgemini (May 2021 - Jan 2024)**
+
 **Senior Analyst**
 - Analyzed application functionalities to strategize and implement over 590+ test cases, enhancing risk assessment and security validation processes.
 - Identified, analyzed and documented 70+ security and functionality defects using Rally and ALM defect management tools, optimizing system resilience and risk
