@@ -12,6 +12,12 @@ Jan 2024 - May 2025
 **Saraswati College of Engineering**, Navi Mumbai, India  
 Aug 2016 - Oct 2020
 
+## Projects
+- [Network Traffic Analyzer using Wireshark](https://dasalvi36.github.io/Wireshark/)
+- [Security Monitoring and Logging using SIEM](https://dasalvi36.github.io/SIEM-Security-Information-and-Event-Management/)
+- [Business Continuity Plan](https://github.com/Dasalvi36/Business-Continuity-Plan/raw/main/Business%20Continuity%20Plan.docx)
+- [Cross-Site Scripting Vulnerability Identifier using Burpsuite](https://dasalvi36.github.io/Cross-Site-Scripting-Vulnerability-Identifier-using-Burpsuite/)
+
 ## Work Experience
 
 **Capgemini (May 2021 - Jan 2024)**
@@ -21,12 +27,6 @@ Aug 2016 - Oct 2020
 - Identified and documented 70+ functional and security defects, improving application resilience and enabling development teams to patch high-risk vulnerabilities ahead of release cycles
 - Performed functional and regression testing in an Agile environment, identifying performance gaps and supporting security improvements across critical web applications
 - Collaborated with cross-functional teams to enhance web application security processes, leading to a 20% reduction in vulnerabilities
-
-## Projects
-- [Network Traffic Analyzer using Wireshark](https://dasalvi36.github.io/Wireshark/)
-- [Security Monitoring and Logging using SIEM](https://dasalvi36.github.io/SIEM-Security-Information-and-Event-Management/)
-- [Business Continuity Plan](https://github.com/Dasalvi36/Business-Continuity-Plan/raw/main/Business%20Continuity%20Plan.docx)
-- [Cross-Site Scripting Vulnerability Identifier using Burpsuite](https://dasalvi36.github.io/Cross-Site-Scripting-Vulnerability-Identifier-using-Burpsuite/)
   
 ## Techincal Skills
 - Technical Languages: C, Java, Python, Microsoft Powershell, SQL
